@@ -14,13 +14,13 @@ Welcome to the Disease Detection Chatbot! This Flask application leverages Natur
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/disease-detection-chatbot.git
+git clone https://github.com/bharathajjarapu/HealthChat.git
 ```
 
 2. Navigate to the project directory:
 
 ```bash
-cd disease-detection-chatbot
+cd HealthChat
 ```
 
 3. Install the required dependencies:
